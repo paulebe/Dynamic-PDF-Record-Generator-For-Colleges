@@ -1,6 +1,8 @@
 # Dynamic-PDF-Record-Generator-For-Colleges
 ![HomePage](https://lh5.googleusercontent.com/swP9IbWo1Y96B6ERehkOGnMFmdmXZ5otOb55mS44sMDXk984wEM3p7ITDlJrEgCz6Z5f_7mEkg4Pbw=w1366-h662-rw "A Sample Page")
 
+LIVE EXAMPLE: Open http://csein.ml/eg in your browser
+
 The PHP files for creation of dynamic pdf generator.It is targeted for college students
 It is implementedd by using TCPDF,FPDI Libraries
 For design we used W3.CSS
@@ -20,5 +22,4 @@ Requirements
 Apache WebServer
 PHP Support
 
-Open http://csein.ml/eg in your browser
 
