@@ -19,7 +19,6 @@ To Set up Locally
 You can take all the files of this site and run them just on your computer as if it were live online, only it's just on your machine.
 
 Requirements
-Apache WebServer
-PHP Support
+Apache WebServer with PHP Support
 
 
